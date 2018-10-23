@@ -1,0 +1,24 @@
+iTOP-4412开发板配套光盘资料
+
+01_PCB_SCH_DATASHEET
+	--配套原理图、PCB、Datasheet
+02_编译器以及烧写工具
+	--uboot、kernel以及QtE文件系统交叉编译工具
+	--烧写工具fastboot
+	--USB转串口驱动、ADB驱动
+03_镜像_Android以及QtE
+	--二进制文件：Android4.0.3文件系统、QtE4.7文件系统
+	--二进制文件：文件系统对应的uboot和kernel
+04_镜像_Ubuntu文件系统
+	--二进制文件：Ubuntu文件系统（arm）
+	--二进制文件：文件系统对应的uboot和kernel
+05_源码_uboot和kernel
+	--源码：uboot以及kerne源码
+06_源码_Android文件系统
+	--源码：Android4.0.3文件系统
+07_源码_QtE文件系统
+	--源码：QtE4.7文件系统
+	--补丁包：QtE4.7对应的tslib触摸库
+iTOP-4412开发板之xxx使用手册_Vx.x.pdf
+	--开发板配套使用手册，xxx代表精英版或者全能版；Vx.x表示版本，以用户拿到的版本为准
+光盘目录说明.txt
